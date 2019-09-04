@@ -16,8 +16,9 @@ header {
 aside {
   display: block;
     margin-left: 778px;
-    margin-top: -8%;
+    margin-top: -10%;
     width: 30%;
+    height: 115px;
     border: 10px solid;
     padding: 12px;
 }
@@ -26,9 +27,18 @@ section {
   display: block;
   margin-left: 18%;
   width: 28%;
-  height: 80px;
+  height: 140px;
   border: 10px solid;
   padding: 10px;
+}
+
+article {
+  display: block;
+    margin-left: 12%;
+    width: 70%;
+    height: 25px;
+    border: 10px solid;
+    padding: 10px;
 }
 
 footer {
